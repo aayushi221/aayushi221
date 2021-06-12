@@ -24,5 +24,3 @@ Skills: SELENIUM/ REACT / JS / HTML / CSS / FLASK
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aayushi221)  
 
-![GitHub metrics](https://metrics.lecoq.io/aayushi221)  
-
