@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Aayushi
 #### I am a part-time freelancer and a full-stack web development intern at Coinskite
-![I am a part-time freelancer and a full-stack web development intern at Coinskite](https://www.canva.com/design/DAEhJKWELms/9D544AG22Ja1YpI7pkZGIg/view?utm_content=DAEhJKWELms&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+![I am a part-time freelancer and a full-stack web development intern at Coinskite]
+
 
 
 Hey! I am Aayushi from India. I am a freelancer and my expertise is content/blog writing, graphical designing, video editing and making white board explanatory videos. I am still in college(3rd year) and doing an Internship at Coinskite- a company that provides blockchain as a service.
