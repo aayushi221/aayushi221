@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Aayushi
 #### I am a part-time freelancer and a full-stack web development intern at Coinskite
-![I am a part-time freelancer and a full-stack web development intern at Coinskite]
+
 
 
 
