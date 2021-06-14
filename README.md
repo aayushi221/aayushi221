@@ -2,7 +2,7 @@
 #### I am a part-time freelancer and a full-stack web development intern at Coinskite
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi221&label=Profile%20views&color=0e75b6&style=flat" alt="aayushi221" /> </p>
-![Girl gif] <img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="me coding" />
+ <img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="me coding" />
 
 
 Hey! I am Aayushi from India. I am a freelancer and my expertise is content/blog writing, graphical designing, video editing and making white board explanatory videos. I am still in college(3rd year) and doing an Internship at Coinskite- a company that provides blockchain as a service.
