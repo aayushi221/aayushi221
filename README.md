@@ -14,7 +14,7 @@ Skills: SELENIUM/ REACT / JS / HTML / CSS / FLASK
 - 🔭 I’m currently working on cloning websites using Tailwind CSS. 
 - 🌱 I’m currently learning about Blockchain technologies 
 - 👯 I’m looking to collaborate on some awesome JS projects 
-- 🤔 I’m looking for help with development. 
+- 🤔 I’m looking for help with pretty much everything(I am still learning). 
 - 😄 Pronouns: She/her 
 
 
