@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Aayushi
 #### I am a part-time freelancer and a full-stack web development intern at Coinskite
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi221&label=Profile%20views&color=0e75b6&style=flat" alt="aayushi221" /> </p>
 
 
 Hey! I am Aayushi from India. I am a freelancer and my expertise is content/blog writing, graphical designing, video editing and making white board explanatory videos. I am still in college(3rd year) and doing an Internship at Coinskite- a company that provides blockchain as a service.
