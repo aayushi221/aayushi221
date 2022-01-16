@@ -1,5 +1,5 @@
-<h1>Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> my name is Aayushi</h1>
-<h3></h3>
+<h1>Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
+<h3> I am Aayushi</h3>
 
 
  I am a part-time freelancer and a Software Engineer at Kipi.bi, currently working with Snowflake. I have worked as a web development intern at Coinskite earlier.
