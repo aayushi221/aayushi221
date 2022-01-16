@@ -1,8 +1,8 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> my name is Aayushi</h1>
-<h3> I am a part-time freelancer and a Software Engineer at Apisero. I am currently working on Snowflake. I have worked as a full-stack web development intern at Coinskite earlier.</h3>
+<h3></h3>
 
 
-Hey! I am Aayushi from India. I am a freelancer and my expertise is content/blog writing, graphical designing, video editing and making white board explanatory videos. I am  in college currently.
+ I am a part-time freelancer and a Software Engineer at Kipi.bi, currently working with Snowflake. I have worked as a web development intern at Coinskite earlier.
 
 
 
